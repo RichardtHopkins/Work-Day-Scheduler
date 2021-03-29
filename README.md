@@ -6,10 +6,8 @@ Scheduler that uses moment.js, jquery, and bootstrap to allow a user to plan out
 
 ## Screenshoot of website:
 
-
-![image showing the work day scheduler website.](./assets/images/codeQuiz.png)
-
+![image showing the work day scheduler website.](./assets/images/)
 
 ## Link to live website:
 
-[Work Day Scheduler.](https://richardthopkins.github.io/Code-Quiz/)
+[Work Day Scheduler.](https://richardthopkins.github.io/Work-Day-Scheduler/)
