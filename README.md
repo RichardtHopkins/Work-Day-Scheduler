@@ -2,11 +2,11 @@
 
 ## Description:
 
-Scheduler that uses moment.js, jquery, and bootstrap to allow a user to plan out there work day.
+Scheduler that uses moment.js, jquery, and bootstrap to allow a user to plan out their work day.
 
 ## Screenshoot of website:
 
-![image showing the work day scheduler website.](./assets/images/)
+![image showing the work day scheduler website.](./assets/images/scheduler.png)
 
 ## Link to live website:
 
